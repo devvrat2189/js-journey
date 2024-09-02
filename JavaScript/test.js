@@ -1,2 +1,4 @@
 // console.log('Hi, Devvratt');
-console.table('Hi')
+let a = 5
+let b = 7
+console.table([a,b])
